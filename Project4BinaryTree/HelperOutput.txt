@@ -4,210 +4,210 @@ What Can it do you might Ask? Press ENTER and Find Out!
 
 Using the Tree Iterator, get the list of contacts!
 In Order: 
-Contact{name='James Butt', phone='504-621-8927', address=Address{street='6649 N Blue Gum St', city='New Orleans', state='LA', zipcode='70116'}}
-Contact{name='Ben Dover', phone='REDACTED', address=Address{street='69 N Yo-mammas-house Rd', city='Screamer', state='AL', zipcode='69012'}}
-Contact{name='Art Venere', phone='856-636-8749', address=Address{street='8 W Cerritos Ave #54', city='Bridgeport', state='NJ', zipcode='8014'}}
+Contact{name='Benjamin Dover', phone='REDACTED', address=Address{street='69 N Yo-mammas-house Rd', city='Screamer', state='AL', zipcode='69012'}}
 Contact{name='Abel Maclead', phone='631-335-3414', address=Address{street='37275 St  Rt 17m M', city='Middle Island', state='NY', zipcode='11953'}}
-Contact{name='Alisha Slusarski', phone='732-658-3154', address=Address{street='3273 State St', city='Middlesex', state='NJ', zipcode='8846'}}
 Contact{name='Albina Glick', phone='732-924-7882', address=Address{street='4 Ralph Ct', city='Dunellen', state='NJ', zipcode='8812'}}
+Contact{name='Alisha Slusarski', phone='732-658-3154', address=Address{street='3273 State St', city='Middlesex', state='NJ', zipcode='8846'}}
 Contact{name='Allene Iturbide', phone='715-662-6764', address=Address{street='1 Central Ave', city='Stevens Point', state='WI', zipcode='54481'}}
 Contact{name='Alishia Sergi', phone='212-860-1579', address=Address{street='2742 Distribution Way', city='New York', state='NY', zipcode='10025'}}
-Contact{name='Ammie Corrio', phone='614-801-9788', address=Address{street='74874 Atlantic Ave', city='Columbus', state='OH', zipcode='43215'}}
 Contact{name='Amber Monarrez', phone='215-934-8655', address=Address{street='14288 Foster Ave #4121', city='Jenkintown', state='PA', zipcode='19046'}}
+Contact{name='Ammie Corrio', phone='614-801-9788', address=Address{street='74874 Atlantic Ave', city='Columbus', state='OH', zipcode='43215'}}
 Contact{name='Arlette Honeywell', phone='904-775-4480', address=Address{street='11279 Loytan St', city='Jacksonville', state='FL', zipcode='32254'}}
-Contact{name='Donette Foller', phone='513-570-1893', address=Address{street='34 Center St', city='Hamilton', state='OH', zipcode='45011'}}
+Contact{name='Art Venere', phone='856-636-8749', address=Address{street='8 W Cerritos Ave #54', city='Bridgeport', state='NJ', zipcode='8014'}}
 Contact{name='Cammy Albares', phone='956-537-6195', address=Address{street='56 E Morehead St', city='Laredo', state='TX', zipcode='78045'}}
-Contact{name='Bette Nicka', phone='610-545-3615', address=Address{street='6 S 33rd St', city='Aston', state='PA', zipcode='19014'}}
 Contact{name='Bernardo Figeroa', phone='936-336-3951', address=Address{street='386 9th Ave N', city='Conroe', state='TX', zipcode='77301'}}
+Contact{name='Bette Nicka', phone='610-545-3615', address=Address{street='6 S 33rd St', city='Aston', state='PA', zipcode='19014'}}
 Contact{name='Blair Malet', phone='215-907-9111', address=Address{street='209 Decker Dr', city='Philadelphia', state='PA', zipcode='19132'}}
-Contact{name='Brock Bolognia', phone='212-402-9216', address=Address{street='4486 W O St #1', city='New York', state='NY', zipcode='10003'}}
 Contact{name='Blondell Pugh', phone='401-960-8259', address=Address{street='201 Hawk Ct', city='Providence', state='RI', zipcode='2904'}}
 Contact{name='Bobbye Rhym', phone='650-528-5783', address=Address{street='30 W 80th St #1995', city='San Carlos', state='CA', zipcode='94070'}}
-Contact{name='Chanel Caudy', phone='913-388-2079', address=Address{street='86 Nw 66th St #8673', city='Shawnee', state='KS', zipcode='66218'}}
+Contact{name='Brock Bolognia', phone='212-402-9216', address=Address{street='4486 W O St #1', city='New York', state='NY', zipcode='10003'}}
 Contact{name='Cecily Hollack', phone='512-486-3817', address=Address{street='59 N Groesbeck Hwy', city='Austin', state='TX', zipcode='78731'}}
-Contact{name='Carmelina Lindall', phone='303-724-7371', address=Address{street='2664 Lewis Rd', city='Littleton', state='CO', zipcode='80126'}}
 Contact{name='Carma Vanheusen', phone='510-503-7169', address=Address{street='68556 Central Hwy', city='San Leandro', state='CA', zipcode='94577'}}
+Contact{name='Carmelina Lindall', phone='303-724-7371', address=Address{street='2664 Lewis Rd', city='Littleton', state='CO', zipcode='80126'}}
+Contact{name='Chanel Caudy', phone='913-388-2079', address=Address{street='86 Nw 66th St #8673', city='Shawnee', state='KS', zipcode='66218'}}
 Contact{name='Delmy Ahle', phone='401-458-2547', address=Address{street='65895 S 16th St', city='Providence', state='RI', zipcode='2909'}}
-Contact{name='Deeanna Juhas', phone='215-211-9589', address=Address{street='14302 Pennsylvania Ave', city='Huntingdon Valley', state='PA', zipcode='19006'}}
 Contact{name='Cory Gibes', phone='626-572-1096', address=Address{street='83649 W Belmont Ave', city='San Gabriel', state='CA', zipcode='91776'}}
 Contact{name='Danica Bruschke', phone='254-782-8569', address=Address{street='840 15th Ave', city='Waco', state='TX', zipcode='76708'}}
+Contact{name='Deeanna Juhas', phone='215-211-9589', address=Address{street='14302 Pennsylvania Ave', city='Huntingdon Valley', state='PA', zipcode='19006'}}
 Contact{name='Delisa Crupi', phone='973-354-2040', address=Address{street='47565 W Grand Ave', city='Newark', state='NJ', zipcode='7105'}}
 Contact{name='Devorah Chickering', phone='505-975-8559', address=Address{street='31 Douglas Blvd #950', city='Clovis', state='NM', zipcode='88101'}}
 Contact{name='Dominque Dickerson', phone='510-993-3758', address=Address{street='69 Marquette Ave', city='Hayward', state='CA', zipcode='94545'}}
+Contact{name='Donette Foller', phone='513-570-1893', address=Address{street='34 Center St', city='Hamilton', state='OH', zipcode='45011'}}
 Contact{name='Graciela Ruta', phone='440-780-8425', address=Address{street='98 Connecticut Ave Nw', city='Chagrin Falls', state='OH', zipcode='44023'}}
-Contact{name='Gladys Rim', phone='414-661-9598', address=Address{street='322 New Horizon Blvd', city='Milwaukee', state='WI', zipcode='53207'}}
 Contact{name='Fletcher Flosi', phone='815-828-2147', address=Address{street='394 Manchester Blvd', city='Rockford', state='IL', zipcode='61109'}}
-Contact{name='Ezekiel Chui', phone='410-669-1642', address=Address{street='2 Cedar Ave #84', city='Easton', state='MD', zipcode='21601'}}
 Contact{name='Ernie Stenseth', phone='201-709-6245', address=Address{street='45 E Liberty St', city='Ridgefield Park', state='NJ', zipcode='7660'}}
 Contact{name='Dyan Oldroyd', phone='913-413-4604', address=Address{street='7219 Woodfield Rd', city='Overland Park', state='KS', zipcode='66204'}}
 Contact{name='Erick Ferencz', phone='907-741-1044', address=Address{street='20 S Babcock St', city='Fairbanks', state='AK', zipcode='99712'}}
-Contact{name='Emerson Bowley', phone='608-336-7444', address=Address{street='762 S Main St', city='Madison', state='WI', zipcode='53711'}}
 Contact{name='Elly Morocco', phone='814-393-5571', address=Address{street='7 W 32nd St', city='Erie', state='PA', zipcode='16502'}}
-Contact{name='Elza Lipke', phone='973-927-3447', address=Address{street='6794 Lake Dr E', city='Newark', state='NJ', zipcode='7104'}}
 Contact{name='Elvera Benimadh', phone='408-703-8505', address=Address{street='99385 Charity St #840', city='San Jose', state='CA', zipcode='95110'}}
+Contact{name='Elza Lipke', phone='973-927-3447', address=Address{street='6794 Lake Dr E', city='Newark', state='NJ', zipcode='7104'}}
+Contact{name='Emerson Bowley', phone='608-336-7444', address=Address{street='762 S Main St', city='Madison', state='WI', zipcode='53711'}}
+Contact{name='Ezekiel Chui', phone='410-669-1642', address=Address{street='2 Cedar Ave #84', city='Easton', state='MD', zipcode='21601'}}
 Contact{name='Fatima Saylors', phone='952-768-2416', address=Address{street='2 Lighthouse Ave', city='Hopkins', state='MN', zipcode='55343'}}
 Contact{name='Francine Vocelka', phone='505-977-3911', address=Address{street='366 South Dr', city='Las Cruces', state='NM', zipcode='88011'}}
-Contact{name='Jamal Vanausdal', phone='732-234-1546', address=Address{street='53075 Sw 152nd Ter #615', city='Monroe Township', state='NJ', zipcode='8831'}}
+Contact{name='Gladys Rim', phone='414-661-9598', address=Address{street='322 New Horizon Blvd', city='Milwaukee', state='WI', zipcode='53207'}}
 Contact{name='Ilene Eroman', phone='410-914-9018', address=Address{street='2853 S Central Expy', city='Glen Burnie', state='MD', zipcode='21061'}}
+Contact{name='Jamal Vanausdal', phone='732-234-1546', address=Address{street='53075 Sw 152nd Ter #615', city='Monroe Township', state='NJ', zipcode='8831'}}
+Contact{name='James Butt', phone='504-621-8927', address=Address{street='6649 N Blue Gum St', city='New Orleans', state='LA', zipcode='70116'}}
 Contact{name='Josephine Darakjy', phone='810-292-9388', address=Address{street='4 B Blue Ridge Blvd', city='Brighton', state='MI', zipcode='48116'}}
-Contact{name='Jose Stockham', phone='212-675-8570', address=Address{street='128 Bransten Rd', city='New York', state='NY', zipcode='10011'}}
 Contact{name='Jina Briddick', phone='617-399-5124', address=Address{street='38938 Park Blvd', city='Boston', state='MA', zipcode='2128'}}
 Contact{name='Johnetta Abdallah', phone='919-225-9345', address=Address{street='1088 Pinehurst St', city='Chapel Hill', state='NC', zipcode='27514'}}
-Contact{name='Lenna Paprocki', phone='907-385-4412', address=Address{street='639 Main St', city='Anchorage', state='AK', zipcode='99501'}}
+Contact{name='Jose Stockham', phone='212-675-8570', address=Address{street='128 Bransten Rd', city='New York', state='NY', zipcode='10011'}}
 Contact{name='Kris Marrier', phone='410-655-8723', address=Address{street='228 Runamuck Pl #2808', city='Baltimore', state='MD', zipcode='21224'}}
-Contact{name='Kiley Caldarera', phone='310-498-5651', address=Address{street='25 E 75th St #69', city='Los Angeles', state='CA', zipcode='90034'}}
 Contact{name='Kati Rulapaugh', phone='785-463-7829', address=Address{street='6980 Dorsett Rd', city='Abilene', state='KS', zipcode='67410'}}
-Contact{name='Kanisha Waycott', phone='323-453-2780', address=Address{street='5 Tomahawk Dr', city='Los Angeles', state='CA', zipcode='90006'}}
 Contact{name='Kallie Blackwood', phone='415-315-2761', address=Address{street='701 S Harrison Rd', city='San Francisco', state='CA', zipcode='94104'}}
+Contact{name='Kanisha Waycott', phone='323-453-2780', address=Address{street='5 Tomahawk Dr', city='Los Angeles', state='CA', zipcode='90006'}}
 Contact{name='Karl Klonowski', phone='908-877-6135', address=Address{street='76 Brooks St #9', city='Flemington', state='NJ', zipcode='8822'}}
-Contact{name='Lavera Perin', phone='305-606-7291', address=Address{street='678 3rd Ave', city='Miami', state='FL', zipcode='33196'}}
+Contact{name='Kiley Caldarera', phone='310-498-5651', address=Address{street='25 E 75th St #69', city='Los Angeles', state='CA', zipcode='90034'}}
 Contact{name='Laurel Reitler', phone='410-520-4832', address=Address{street='6 Kains Ave', city='Baltimore', state='MD', zipcode='21215'}}
 Contact{name='Lai Gato', phone='847-728-7286', address=Address{street='37 Alabama Ave', city='Evanston', state='IL', zipcode='60201'}}
+Contact{name='Lavera Perin', phone='305-606-7291', address=Address{street='678 3rd Ave', city='Miami', state='FL', zipcode='33196'}}
+Contact{name='Lenna Paprocki', phone='907-385-4412', address=Address{street='639 Main St', city='Anchorage', state='AK', zipcode='99501'}}
 Contact{name='Simona Morasca', phone='419-503-2484', address=Address{street='3 Mcauley Dr', city='Ashland', state='OH', zipcode='44805'}}
-Contact{name='Mitsue Tollner', phone='773-573-6914', address=Address{street='7 Eads St', city='Chicago', state='IL', zipcode='60632'}}
 Contact{name='Leota Dilliard', phone='408-752-3500', address=Address{street='7 W Jackson Blvd', city='San Jose', state='CA', zipcode='95111'}}
-Contact{name='Minna Amigon', phone='215-874-1229', address=Address{street='2371 Jerrold Ave', city='Kulpsville', state='PA', zipcode='19443'}}
 Contact{name='Mattie Poquette', phone='602-277-4385', address=Address{street='73 State Road 434 E', city='Phoenix', state='AZ', zipcode='85013'}}
-Contact{name='Maryann Royster', phone='518-966-7987', address=Address{street='74 S Westgate St', city='Albany', state='NY', zipcode='12204'}}
 Contact{name='Lorrie Nestle', phone='931-875-6644', address=Address{street='39 S 7th St', city='Tullahoma', state='TN', zipcode='37388'}}
 Contact{name='Lettie Isenhower', phone='216-657-7668', address=Address{street='70 W Main St', city='Beachwood', state='OH', zipcode='44122'}}
 Contact{name='Lisha Centini', phone='703-235-3937', address=Address{street='64 5th Ave #1153', city='Mc Lean', state='VA', zipcode='22102'}}
-Contact{name='Marjory Mastella', phone='610-814-5533', address=Address{street='71 San Mateo Ave', city='Wayne', state='PA', zipcode='19087'}}
 Contact{name='Malinda Hochard', phone='317-722-5066', address=Address{street='55 Riverside Ave', city='Indianapolis', state='IN', zipcode='46202'}}
-Contact{name='Meaghan Garufi', phone='931-313-9635', address=Address{street='69734 E Carrillo St', city='Mc Minnville', state='TN', zipcode='37110'}}
+Contact{name='Marjory Mastella', phone='610-814-5533', address=Address{street='71 San Mateo Ave', city='Wayne', state='PA', zipcode='19087'}}
+Contact{name='Maryann Royster', phone='518-966-7987', address=Address{street='74 S Westgate St', city='Albany', state='NY', zipcode='12204'}}
 Contact{name='Maurine Yglesias', phone='414-748-1374', address=Address{street='59 Shady Ln #53', city='Milwaukee', state='WI', zipcode='53214'}}
+Contact{name='Meaghan Garufi', phone='931-313-9635', address=Address{street='69734 E Carrillo St', city='Mc Minnville', state='TN', zipcode='37110'}}
 Contact{name='Micaela Rhymes', phone='925-647-3298', address=Address{street='20932 Hedley St', city='Concord', state='CA', zipcode='94520'}}
+Contact{name='Minna Amigon', phone='215-874-1229', address=Address{street='2371 Jerrold Ave', city='Kulpsville', state='PA', zipcode='19443'}}
+Contact{name='Mitsue Tollner', phone='773-573-6914', address=Address{street='7 Eads St', city='Chicago', state='IL', zipcode='60632'}}
 Contact{name='Sage Wieser', phone='605-414-2147', address=Address{street='5 Boston Ave #88', city='Sioux Falls', state='SD', zipcode='57105'}}
-Contact{name='Rozella Ostrosky', phone='805-832-6163', address=Address{street='17 Morena Blvd', city='Camarillo', state='CA', zipcode='93012'}}
 Contact{name='Roxane Campain', phone='907-231-4722', address=Address{street='1048 Main St', city='Fairbanks', state='AK', zipcode='99708'}}
-Contact{name='Penney Weight', phone='907-797-9628', address=Address{street='18 Fountain St', city='Anchorage', state='AK', zipcode='99515'}}
 Contact{name='Moon Parlato', phone='585-866-8313', address=Address{street='74989 Brandon St', city='Wellsville', state='NY', zipcode='14895'}}
 Contact{name='Myra Munns', phone='817-914-7518', address=Address{street='461 Prospect Pl #316', city='Euless', state='TX', zipcode='76040'}}
 Contact{name='Natalie Fern', phone='307-704-8713', address=Address{street='7140 University Ave', city='Rock Springs', state='WY', zipcode='82901'}}
+Contact{name='Penney Weight', phone='907-797-9628', address=Address{street='18 Fountain St', city='Anchorage', state='AK', zipcode='99515'}}
+Contact{name='Rozella Ostrosky', phone='805-832-6163', address=Address{street='17 Morena Blvd', city='Camarillo', state='CA', zipcode='93012'}}
 Contact{name='Sabra Uyetake', phone='803-925-5213', address=Address{street='98839 Hawthorne Blvd #6101', city='Columbia', state='SC', zipcode='29201'}}
 Contact{name='Shenika Seewald', phone='818-423-4007', address=Address{street='4 Otis St', city='Van Nuys', state='CA', zipcode='91405'}}
-Contact{name='Yuki Whobrey', phone='313-288-7937', address=Address{street='1 State Route 27', city='Taylor', state='MI', zipcode='48180'}}
 Contact{name='Veronika Inouye', phone='408-540-1785', address=Address{street='6 Greenleaf Ave', city='San Jose', state='CA', zipcode='95111'}}
 Contact{name='Solange Shinko', phone='504-979-9175', address=Address{street='426 Wolf St', city='Metairie', state='LA', zipcode='70002'}}
 Contact{name='Valentine Gillian', phone='210-812-9597', address=Address{street='775 W 17th St', city='San Antonio', state='TX', zipcode='78204'}}
-Contact{name='Tonette Wenner', phone='516-968-6051', address=Address{street='4545 Courthouse Rd', city='Westbury', state='NY', zipcode='11590'}}
 Contact{name='Tawna Buvens', phone='212-674-9610', address=Address{street='3305 Nabell Ave #679', city='New York', state='NY', zipcode='10009'}}
-Contact{name='Tamar Hoogland', phone='740-343-8575', address=Address{street='2737 Pistorio Rd #9230', city='London', state='OH', zipcode='43140'}}
 Contact{name='Stephaine Barfield', phone='310-774-7643', address=Address{street='47154 Whipple Ave Nw', city='Gardena', state='CA', zipcode='90247'}}
 Contact{name='Stephen Emigh', phone='330-537-5358', address=Address{street='3777 E Richmond St #900', city='Akron', state='OH', zipcode='44302'}}
+Contact{name='Tamar Hoogland', phone='740-343-8575', address=Address{street='2737 Pistorio Rd #9230', city='London', state='OH', zipcode='43140'}}
 Contact{name='Tammara Wardrip', phone='650-803-1936', address=Address{street='4800 Black Horse Pike', city='Burlingame', state='CA', zipcode='94010'}}
 Contact{name='Timothy Mulqueen', phone='718-332-6527', address=Address{street='44 W 4th St', city='Staten Island', state='NY', zipcode='10309'}}
+Contact{name='Tonette Wenner', phone='516-968-6051', address=Address{street='4545 Courthouse Rd', city='Westbury', state='NY', zipcode='11590'}}
 Contact{name='Tyra Shields', phone='215-255-1641', address=Address{street='3 Fort Worth Ave', city='Philadelphia', state='PA', zipcode='19106'}}
 Contact{name='Vallie Mondella', phone='208-862-5339', address=Address{street='74 W College St', city='Boise', state='ID', zipcode='83707'}}
-Contact{name='Willard Kolmetz', phone='972-303-9197', address=Address{street='618 W Yakima Ave', city='Irving', state='TX', zipcode='75062'}}
 Contact{name='Viva Toelkes', phone='773-446-5569', address=Address{street='4284 Dorigo Ln', city='Chicago', state='IL', zipcode='60647'}}
 Contact{name='Wilda Giguere', phone='907-870-5536', address=Address{street='1747 Calle Amanecer #2', city='Anchorage', state='AK', zipcode='99501'}}
+Contact{name='Willard Kolmetz', phone='972-303-9197', address=Address{street='618 W Yakima Ave', city='Irving', state='TX', zipcode='75062'}}
 Contact{name='Willow Kusko', phone='212-582-4976', address=Address{street='90991 Thorburn Ave', city='New York', state='NY', zipcode='10011'}}
 Contact{name='Youlanda Schemmer', phone='541-548-8197', address=Address{street='2881 Lewis Rd', city='Prineville', state='OR', zipcode='97754'}}
+Contact{name='Yuki Whobrey', phone='313-288-7937', address=Address{street='1 State Route 27', city='Taylor', state='MI', zipcode='48180'}}
 
 
 
 Pre Order: 
+Contact{name='James Butt', phone='504-621-8927', address=Address{street='6649 N Blue Gum St', city='New Orleans', state='LA', zipcode='70116'}}
+Contact{name='Art Venere', phone='856-636-8749', address=Address{street='8 W Cerritos Ave #54', city='Bridgeport', state='NJ', zipcode='8014'}}
 Contact{name='Abel Maclead', phone='631-335-3414', address=Address{street='37275 St  Rt 17m M', city='Middle Island', state='NY', zipcode='11953'}}
-Contact{name='Albina Glick', phone='732-924-7882', address=Address{street='4 Ralph Ct', city='Dunellen', state='NJ', zipcode='8812'}}
 Contact{name='Alisha Slusarski', phone='732-658-3154', address=Address{street='3273 State St', city='Middlesex', state='NJ', zipcode='8846'}}
+Contact{name='Albina Glick', phone='732-924-7882', address=Address{street='4 Ralph Ct', city='Dunellen', state='NJ', zipcode='8812'}}
 Contact{name='Alishia Sergi', phone='212-860-1579', address=Address{street='2742 Distribution Way', city='New York', state='NY', zipcode='10025'}}
 Contact{name='Allene Iturbide', phone='715-662-6764', address=Address{street='1 Central Ave', city='Stevens Point', state='WI', zipcode='54481'}}
-Contact{name='Amber Monarrez', phone='215-934-8655', address=Address{street='14288 Foster Ave #4121', city='Jenkintown', state='PA', zipcode='19046'}}
 Contact{name='Ammie Corrio', phone='614-801-9788', address=Address{street='74874 Atlantic Ave', city='Columbus', state='OH', zipcode='43215'}}
+Contact{name='Amber Monarrez', phone='215-934-8655', address=Address{street='14288 Foster Ave #4121', city='Jenkintown', state='PA', zipcode='19046'}}
 Contact{name='Arlette Honeywell', phone='904-775-4480', address=Address{street='11279 Loytan St', city='Jacksonville', state='FL', zipcode='32254'}}
-Contact{name='Art Venere', phone='856-636-8749', address=Address{street='8 W Cerritos Ave #54', city='Bridgeport', state='NJ', zipcode='8014'}}
-Contact{name='Ben Dover', phone='REDACTED', address=Address{street='69 N Yo-mammas-house Rd', city='Screamer', state='AL', zipcode='69012'}}
-Contact{name='Bernardo Figeroa', phone='936-336-3951', address=Address{street='386 9th Ave N', city='Conroe', state='TX', zipcode='77301'}}
+Contact{name='Benjamin Dover', phone='REDACTED', address=Address{street='69 N Yo-mammas-house Rd', city='Screamer', state='AL', zipcode='69012'}}
+Contact{name='Donette Foller', phone='513-570-1893', address=Address{street='34 Center St', city='Hamilton', state='OH', zipcode='45011'}}
 Contact{name='Bette Nicka', phone='610-545-3615', address=Address{street='6 S 33rd St', city='Aston', state='PA', zipcode='19014'}}
+Contact{name='Bernardo Figeroa', phone='936-336-3951', address=Address{street='386 9th Ave N', city='Conroe', state='TX', zipcode='77301'}}
 Contact{name='Blair Malet', phone='215-907-9111', address=Address{street='209 Decker Dr', city='Philadelphia', state='PA', zipcode='19132'}}
+Contact{name='Brock Bolognia', phone='212-402-9216', address=Address{street='4486 W O St #1', city='New York', state='NY', zipcode='10003'}}
 Contact{name='Blondell Pugh', phone='401-960-8259', address=Address{street='201 Hawk Ct', city='Providence', state='RI', zipcode='2904'}}
 Contact{name='Bobbye Rhym', phone='650-528-5783', address=Address{street='30 W 80th St #1995', city='San Carlos', state='CA', zipcode='94070'}}
-Contact{name='Brock Bolognia', phone='212-402-9216', address=Address{street='4486 W O St #1', city='New York', state='NY', zipcode='10003'}}
 Contact{name='Cammy Albares', phone='956-537-6195', address=Address{street='56 E Morehead St', city='Laredo', state='TX', zipcode='78045'}}
-Contact{name='Carma Vanheusen', phone='510-503-7169', address=Address{street='68556 Central Hwy', city='San Leandro', state='CA', zipcode='94577'}}
-Contact{name='Carmelina Lindall', phone='303-724-7371', address=Address{street='2664 Lewis Rd', city='Littleton', state='CO', zipcode='80126'}}
-Contact{name='Cecily Hollack', phone='512-486-3817', address=Address{street='59 N Groesbeck Hwy', city='Austin', state='TX', zipcode='78731'}}
 Contact{name='Chanel Caudy', phone='913-388-2079', address=Address{street='86 Nw 66th St #8673', city='Shawnee', state='KS', zipcode='66218'}}
+Contact{name='Carmelina Lindall', phone='303-724-7371', address=Address{street='2664 Lewis Rd', city='Littleton', state='CO', zipcode='80126'}}
+Contact{name='Carma Vanheusen', phone='510-503-7169', address=Address{street='68556 Central Hwy', city='San Leandro', state='CA', zipcode='94577'}}
+Contact{name='Cecily Hollack', phone='512-486-3817', address=Address{street='59 N Groesbeck Hwy', city='Austin', state='TX', zipcode='78731'}}
+Contact{name='Deeanna Juhas', phone='215-211-9589', address=Address{street='14302 Pennsylvania Ave', city='Huntingdon Valley', state='PA', zipcode='19006'}}
 Contact{name='Cory Gibes', phone='626-572-1096', address=Address{street='83649 W Belmont Ave', city='San Gabriel', state='CA', zipcode='91776'}}
 Contact{name='Danica Bruschke', phone='254-782-8569', address=Address{street='840 15th Ave', city='Waco', state='TX', zipcode='76708'}}
-Contact{name='Deeanna Juhas', phone='215-211-9589', address=Address{street='14302 Pennsylvania Ave', city='Huntingdon Valley', state='PA', zipcode='19006'}}
 Contact{name='Delisa Crupi', phone='973-354-2040', address=Address{street='47565 W Grand Ave', city='Newark', state='NJ', zipcode='7105'}}
 Contact{name='Delmy Ahle', phone='401-458-2547', address=Address{street='65895 S 16th St', city='Providence', state='RI', zipcode='2909'}}
 Contact{name='Devorah Chickering', phone='505-975-8559', address=Address{street='31 Douglas Blvd #950', city='Clovis', state='NM', zipcode='88101'}}
 Contact{name='Dominque Dickerson', phone='510-993-3758', address=Address{street='69 Marquette Ave', city='Hayward', state='CA', zipcode='94545'}}
-Contact{name='Donette Foller', phone='513-570-1893', address=Address{street='34 Center St', city='Hamilton', state='OH', zipcode='45011'}}
+Contact{name='Gladys Rim', phone='414-661-9598', address=Address{street='322 New Horizon Blvd', city='Milwaukee', state='WI', zipcode='53207'}}
+Contact{name='Ezekiel Chui', phone='410-669-1642', address=Address{street='2 Cedar Ave #84', city='Easton', state='MD', zipcode='21601'}}
 Contact{name='Dyan Oldroyd', phone='913-413-4604', address=Address{street='7219 Woodfield Rd', city='Overland Park', state='KS', zipcode='66204'}}
-Contact{name='Elly Morocco', phone='814-393-5571', address=Address{street='7 W 32nd St', city='Erie', state='PA', zipcode='16502'}}
-Contact{name='Elvera Benimadh', phone='408-703-8505', address=Address{street='99385 Charity St #840', city='San Jose', state='CA', zipcode='95110'}}
-Contact{name='Elza Lipke', phone='973-927-3447', address=Address{street='6794 Lake Dr E', city='Newark', state='NJ', zipcode='7104'}}
 Contact{name='Emerson Bowley', phone='608-336-7444', address=Address{street='762 S Main St', city='Madison', state='WI', zipcode='53711'}}
+Contact{name='Elly Morocco', phone='814-393-5571', address=Address{street='7 W 32nd St', city='Erie', state='PA', zipcode='16502'}}
+Contact{name='Elza Lipke', phone='973-927-3447', address=Address{street='6794 Lake Dr E', city='Newark', state='NJ', zipcode='7104'}}
+Contact{name='Elvera Benimadh', phone='408-703-8505', address=Address{street='99385 Charity St #840', city='San Jose', state='CA', zipcode='95110'}}
 Contact{name='Erick Ferencz', phone='907-741-1044', address=Address{street='20 S Babcock St', city='Fairbanks', state='AK', zipcode='99712'}}
 Contact{name='Ernie Stenseth', phone='201-709-6245', address=Address{street='45 E Liberty St', city='Ridgefield Park', state='NJ', zipcode='7660'}}
-Contact{name='Ezekiel Chui', phone='410-669-1642', address=Address{street='2 Cedar Ave #84', city='Easton', state='MD', zipcode='21601'}}
 Contact{name='Fatima Saylors', phone='952-768-2416', address=Address{street='2 Lighthouse Ave', city='Hopkins', state='MN', zipcode='55343'}}
 Contact{name='Fletcher Flosi', phone='815-828-2147', address=Address{street='394 Manchester Blvd', city='Rockford', state='IL', zipcode='61109'}}
 Contact{name='Francine Vocelka', phone='505-977-3911', address=Address{street='366 South Dr', city='Las Cruces', state='NM', zipcode='88011'}}
-Contact{name='Gladys Rim', phone='414-661-9598', address=Address{street='322 New Horizon Blvd', city='Milwaukee', state='WI', zipcode='53207'}}
 Contact{name='Graciela Ruta', phone='440-780-8425', address=Address{street='98 Connecticut Ave Nw', city='Chagrin Falls', state='OH', zipcode='44023'}}
-Contact{name='Ilene Eroman', phone='410-914-9018', address=Address{street='2853 S Central Expy', city='Glen Burnie', state='MD', zipcode='21061'}}
 Contact{name='Jamal Vanausdal', phone='732-234-1546', address=Address{street='53075 Sw 152nd Ter #615', city='Monroe Township', state='NJ', zipcode='8831'}}
-Contact{name='James Butt', phone='504-621-8927', address=Address{street='6649 N Blue Gum St', city='New Orleans', state='LA', zipcode='70116'}}
+Contact{name='Ilene Eroman', phone='410-914-9018', address=Address{street='2853 S Central Expy', city='Glen Burnie', state='MD', zipcode='21061'}}
+Contact{name='Jose Stockham', phone='212-675-8570', address=Address{street='128 Bransten Rd', city='New York', state='NY', zipcode='10011'}}
 Contact{name='Jina Briddick', phone='617-399-5124', address=Address{street='38938 Park Blvd', city='Boston', state='MA', zipcode='2128'}}
 Contact{name='Johnetta Abdallah', phone='919-225-9345', address=Address{street='1088 Pinehurst St', city='Chapel Hill', state='NC', zipcode='27514'}}
-Contact{name='Jose Stockham', phone='212-675-8570', address=Address{street='128 Bransten Rd', city='New York', state='NY', zipcode='10011'}}
 Contact{name='Josephine Darakjy', phone='810-292-9388', address=Address{street='4 B Blue Ridge Blvd', city='Brighton', state='MI', zipcode='48116'}}
-Contact{name='Kallie Blackwood', phone='415-315-2761', address=Address{street='701 S Harrison Rd', city='San Francisco', state='CA', zipcode='94104'}}
+Contact{name='Lenna Paprocki', phone='907-385-4412', address=Address{street='639 Main St', city='Anchorage', state='AK', zipcode='99501'}}
+Contact{name='Kiley Caldarera', phone='310-498-5651', address=Address{street='25 E 75th St #69', city='Los Angeles', state='CA', zipcode='90034'}}
 Contact{name='Kanisha Waycott', phone='323-453-2780', address=Address{street='5 Tomahawk Dr', city='Los Angeles', state='CA', zipcode='90006'}}
+Contact{name='Kallie Blackwood', phone='415-315-2761', address=Address{street='701 S Harrison Rd', city='San Francisco', state='CA', zipcode='94104'}}
 Contact{name='Karl Klonowski', phone='908-877-6135', address=Address{street='76 Brooks St #9', city='Flemington', state='NJ', zipcode='8822'}}
 Contact{name='Kati Rulapaugh', phone='785-463-7829', address=Address{street='6980 Dorsett Rd', city='Abilene', state='KS', zipcode='67410'}}
-Contact{name='Kiley Caldarera', phone='310-498-5651', address=Address{street='25 E 75th St #69', city='Los Angeles', state='CA', zipcode='90034'}}
 Contact{name='Kris Marrier', phone='410-655-8723', address=Address{street='228 Runamuck Pl #2808', city='Baltimore', state='MD', zipcode='21224'}}
+Contact{name='Lavera Perin', phone='305-606-7291', address=Address{street='678 3rd Ave', city='Miami', state='FL', zipcode='33196'}}
 Contact{name='Lai Gato', phone='847-728-7286', address=Address{street='37 Alabama Ave', city='Evanston', state='IL', zipcode='60201'}}
 Contact{name='Laurel Reitler', phone='410-520-4832', address=Address{street='6 Kains Ave', city='Baltimore', state='MD', zipcode='21215'}}
-Contact{name='Lavera Perin', phone='305-606-7291', address=Address{street='678 3rd Ave', city='Miami', state='FL', zipcode='33196'}}
-Contact{name='Lenna Paprocki', phone='907-385-4412', address=Address{street='639 Main St', city='Anchorage', state='AK', zipcode='99501'}}
+Contact{name='Mitsue Tollner', phone='773-573-6914', address=Address{street='7 Eads St', city='Chicago', state='IL', zipcode='60632'}}
 Contact{name='Leota Dilliard', phone='408-752-3500', address=Address{street='7 W Jackson Blvd', city='San Jose', state='CA', zipcode='95111'}}
+Contact{name='Minna Amigon', phone='215-874-1229', address=Address{street='2371 Jerrold Ave', city='Kulpsville', state='PA', zipcode='19443'}}
+Contact{name='Maryann Royster', phone='518-966-7987', address=Address{street='74 S Westgate St', city='Albany', state='NY', zipcode='12204'}}
 Contact{name='Lettie Isenhower', phone='216-657-7668', address=Address{street='70 W Main St', city='Beachwood', state='OH', zipcode='44122'}}
 Contact{name='Lisha Centini', phone='703-235-3937', address=Address{street='64 5th Ave #1153', city='Mc Lean', state='VA', zipcode='22102'}}
 Contact{name='Lorrie Nestle', phone='931-875-6644', address=Address{street='39 S 7th St', city='Tullahoma', state='TN', zipcode='37388'}}
-Contact{name='Malinda Hochard', phone='317-722-5066', address=Address{street='55 Riverside Ave', city='Indianapolis', state='IN', zipcode='46202'}}
 Contact{name='Marjory Mastella', phone='610-814-5533', address=Address{street='71 San Mateo Ave', city='Wayne', state='PA', zipcode='19087'}}
-Contact{name='Maryann Royster', phone='518-966-7987', address=Address{street='74 S Westgate St', city='Albany', state='NY', zipcode='12204'}}
+Contact{name='Malinda Hochard', phone='317-722-5066', address=Address{street='55 Riverside Ave', city='Indianapolis', state='IN', zipcode='46202'}}
 Contact{name='Mattie Poquette', phone='602-277-4385', address=Address{street='73 State Road 434 E', city='Phoenix', state='AZ', zipcode='85013'}}
-Contact{name='Maurine Yglesias', phone='414-748-1374', address=Address{street='59 Shady Ln #53', city='Milwaukee', state='WI', zipcode='53214'}}
 Contact{name='Meaghan Garufi', phone='931-313-9635', address=Address{street='69734 E Carrillo St', city='Mc Minnville', state='TN', zipcode='37110'}}
+Contact{name='Maurine Yglesias', phone='414-748-1374', address=Address{street='59 Shady Ln #53', city='Milwaukee', state='WI', zipcode='53214'}}
 Contact{name='Micaela Rhymes', phone='925-647-3298', address=Address{street='20932 Hedley St', city='Concord', state='CA', zipcode='94520'}}
-Contact{name='Minna Amigon', phone='215-874-1229', address=Address{street='2371 Jerrold Ave', city='Kulpsville', state='PA', zipcode='19443'}}
-Contact{name='Mitsue Tollner', phone='773-573-6914', address=Address{street='7 Eads St', city='Chicago', state='IL', zipcode='60632'}}
+Contact{name='Rozella Ostrosky', phone='805-832-6163', address=Address{street='17 Morena Blvd', city='Camarillo', state='CA', zipcode='93012'}}
+Contact{name='Penney Weight', phone='907-797-9628', address=Address{street='18 Fountain St', city='Anchorage', state='AK', zipcode='99515'}}
 Contact{name='Moon Parlato', phone='585-866-8313', address=Address{street='74989 Brandon St', city='Wellsville', state='NY', zipcode='14895'}}
 Contact{name='Myra Munns', phone='817-914-7518', address=Address{street='461 Prospect Pl #316', city='Euless', state='TX', zipcode='76040'}}
 Contact{name='Natalie Fern', phone='307-704-8713', address=Address{street='7140 University Ave', city='Rock Springs', state='WY', zipcode='82901'}}
-Contact{name='Penney Weight', phone='907-797-9628', address=Address{street='18 Fountain St', city='Anchorage', state='AK', zipcode='99515'}}
 Contact{name='Roxane Campain', phone='907-231-4722', address=Address{street='1048 Main St', city='Fairbanks', state='AK', zipcode='99708'}}
-Contact{name='Rozella Ostrosky', phone='805-832-6163', address=Address{street='17 Morena Blvd', city='Camarillo', state='CA', zipcode='93012'}}
 Contact{name='Sabra Uyetake', phone='803-925-5213', address=Address{street='98839 Hawthorne Blvd #6101', city='Columbia', state='SC', zipcode='29201'}}
 Contact{name='Sage Wieser', phone='605-414-2147', address=Address{street='5 Boston Ave #88', city='Sioux Falls', state='SD', zipcode='57105'}}
 Contact{name='Shenika Seewald', phone='818-423-4007', address=Address{street='4 Otis St', city='Van Nuys', state='CA', zipcode='91405'}}
 Contact{name='Simona Morasca', phone='419-503-2484', address=Address{street='3 Mcauley Dr', city='Ashland', state='OH', zipcode='44805'}}
+Contact{name='Yuki Whobrey', phone='313-288-7937', address=Address{street='1 State Route 27', city='Taylor', state='MI', zipcode='48180'}}
 Contact{name='Solange Shinko', phone='504-979-9175', address=Address{street='426 Wolf St', city='Metairie', state='LA', zipcode='70002'}}
+Contact{name='Tonette Wenner', phone='516-968-6051', address=Address{street='4545 Courthouse Rd', city='Westbury', state='NY', zipcode='11590'}}
+Contact{name='Tamar Hoogland', phone='740-343-8575', address=Address{street='2737 Pistorio Rd #9230', city='London', state='OH', zipcode='43140'}}
 Contact{name='Stephaine Barfield', phone='310-774-7643', address=Address{street='47154 Whipple Ave Nw', city='Gardena', state='CA', zipcode='90247'}}
 Contact{name='Stephen Emigh', phone='330-537-5358', address=Address{street='3777 E Richmond St #900', city='Akron', state='OH', zipcode='44302'}}
-Contact{name='Tamar Hoogland', phone='740-343-8575', address=Address{street='2737 Pistorio Rd #9230', city='London', state='OH', zipcode='43140'}}
 Contact{name='Tammara Wardrip', phone='650-803-1936', address=Address{street='4800 Black Horse Pike', city='Burlingame', state='CA', zipcode='94010'}}
 Contact{name='Tawna Buvens', phone='212-674-9610', address=Address{street='3305 Nabell Ave #679', city='New York', state='NY', zipcode='10009'}}
 Contact{name='Timothy Mulqueen', phone='718-332-6527', address=Address{street='44 W 4th St', city='Staten Island', state='NY', zipcode='10309'}}
-Contact{name='Tonette Wenner', phone='516-968-6051', address=Address{street='4545 Courthouse Rd', city='Westbury', state='NY', zipcode='11590'}}
 Contact{name='Tyra Shields', phone='215-255-1641', address=Address{street='3 Fort Worth Ave', city='Philadelphia', state='PA', zipcode='19106'}}
 Contact{name='Valentine Gillian', phone='210-812-9597', address=Address{street='775 W 17th St', city='San Antonio', state='TX', zipcode='78204'}}
 Contact{name='Vallie Mondella', phone='208-862-5339', address=Address{street='74 W College St', city='Boise', state='ID', zipcode='83707'}}
 Contact{name='Veronika Inouye', phone='408-540-1785', address=Address{street='6 Greenleaf Ave', city='San Jose', state='CA', zipcode='95111'}}
+Contact{name='Willard Kolmetz', phone='972-303-9197', address=Address{street='618 W Yakima Ave', city='Irving', state='TX', zipcode='75062'}}
 Contact{name='Viva Toelkes', phone='773-446-5569', address=Address{street='4284 Dorigo Ln', city='Chicago', state='IL', zipcode='60647'}}
 Contact{name='Wilda Giguere', phone='907-870-5536', address=Address{street='1747 Calle Amanecer #2', city='Anchorage', state='AK', zipcode='99501'}}
-Contact{name='Willard Kolmetz', phone='972-303-9197', address=Address{street='618 W Yakima Ave', city='Irving', state='TX', zipcode='75062'}}
 Contact{name='Willow Kusko', phone='212-582-4976', address=Address{street='90991 Thorburn Ave', city='New York', state='NY', zipcode='10011'}}
 Contact{name='Youlanda Schemmer', phone='541-548-8197', address=Address{street='2881 Lewis Rd', city='Prineville', state='OR', zipcode='97754'}}
-Contact{name='Yuki Whobrey', phone='313-288-7937', address=Address{street='1 State Route 27', city='Taylor', state='MI', zipcode='48180'}}
 
 
 
@@ -310,12 +310,14 @@ Contact{name='Albina Glick', phone='732-924-7882', address=Address{street='4 Ral
 Contact{name='Alisha Slusarski', phone='732-658-3154', address=Address{street='3273 State St', city='Middlesex', state='NJ', zipcode='8846'}}
 Contact{name='Abel Maclead', phone='631-335-3414', address=Address{street='37275 St  Rt 17m M', city='Middle Island', state='NY', zipcode='11953'}}
 Contact{name='Art Venere', phone='856-636-8749', address=Address{street='8 W Cerritos Ave #54', city='Bridgeport', state='NJ', zipcode='8014'}}
-Contact{name='Ben Dover', phone='REDACTED', address=Address{street='69 N Yo-mammas-house Rd', city='Screamer', state='AL', zipcode='69012'}}
+Contact{name='Benjamin Dover', phone='REDACTED', address=Address{street='69 N Yo-mammas-house Rd', city='Screamer', state='AL', zipcode='69012'}}
 Contact{name='James Butt', phone='504-621-8927', address=Address{street='6649 N Blue Gum St', city='New Orleans', state='LA', zipcode='70116'}}
 
 
 
 **ehem, press enter**
+
+
 
 Now, Lets grab a contact using just its name: "James Butt"
 Contact{name='James Butt', phone='504-621-8927', address=Address{street='6649 N Blue Gum St', city='New Orleans', state='LA', zipcode='70116'}}
@@ -329,102 +331,100 @@ You know the drill
 
 
 
-
 Now, lets see what happens when we remove root from the AddressBook
+Contact{name='Benjamin Dover', phone='REDACTED', address=Address{street='69 N Yo-mammas-house Rd', city='Screamer', state='AL', zipcode='69012'}}
 Contact{name='Abel Maclead', phone='631-335-3414', address=Address{street='37275 St  Rt 17m M', city='Middle Island', state='NY', zipcode='11953'}}
 Contact{name='Albina Glick', phone='732-924-7882', address=Address{street='4 Ralph Ct', city='Dunellen', state='NJ', zipcode='8812'}}
 Contact{name='Alisha Slusarski', phone='732-658-3154', address=Address{street='3273 State St', city='Middlesex', state='NJ', zipcode='8846'}}
-Contact{name='Alishia Sergi', phone='212-860-1579', address=Address{street='2742 Distribution Way', city='New York', state='NY', zipcode='10025'}}
 Contact{name='Allene Iturbide', phone='715-662-6764', address=Address{street='1 Central Ave', city='Stevens Point', state='WI', zipcode='54481'}}
+Contact{name='Alishia Sergi', phone='212-860-1579', address=Address{street='2742 Distribution Way', city='New York', state='NY', zipcode='10025'}}
 Contact{name='Amber Monarrez', phone='215-934-8655', address=Address{street='14288 Foster Ave #4121', city='Jenkintown', state='PA', zipcode='19046'}}
 Contact{name='Ammie Corrio', phone='614-801-9788', address=Address{street='74874 Atlantic Ave', city='Columbus', state='OH', zipcode='43215'}}
 Contact{name='Arlette Honeywell', phone='904-775-4480', address=Address{street='11279 Loytan St', city='Jacksonville', state='FL', zipcode='32254'}}
 Contact{name='Art Venere', phone='856-636-8749', address=Address{street='8 W Cerritos Ave #54', city='Bridgeport', state='NJ', zipcode='8014'}}
-Contact{name='Ben Dover', phone='REDACTED', address=Address{street='69 N Yo-mammas-house Rd', city='Screamer', state='AL', zipcode='69012'}}
+Contact{name='Cammy Albares', phone='956-537-6195', address=Address{street='56 E Morehead St', city='Laredo', state='TX', zipcode='78045'}}
 Contact{name='Bernardo Figeroa', phone='936-336-3951', address=Address{street='386 9th Ave N', city='Conroe', state='TX', zipcode='77301'}}
 Contact{name='Bette Nicka', phone='610-545-3615', address=Address{street='6 S 33rd St', city='Aston', state='PA', zipcode='19014'}}
 Contact{name='Blair Malet', phone='215-907-9111', address=Address{street='209 Decker Dr', city='Philadelphia', state='PA', zipcode='19132'}}
 Contact{name='Blondell Pugh', phone='401-960-8259', address=Address{street='201 Hawk Ct', city='Providence', state='RI', zipcode='2904'}}
 Contact{name='Bobbye Rhym', phone='650-528-5783', address=Address{street='30 W 80th St #1995', city='San Carlos', state='CA', zipcode='94070'}}
 Contact{name='Brock Bolognia', phone='212-402-9216', address=Address{street='4486 W O St #1', city='New York', state='NY', zipcode='10003'}}
-Contact{name='Cammy Albares', phone='956-537-6195', address=Address{street='56 E Morehead St', city='Laredo', state='TX', zipcode='78045'}}
+Contact{name='Cecily Hollack', phone='512-486-3817', address=Address{street='59 N Groesbeck Hwy', city='Austin', state='TX', zipcode='78731'}}
 Contact{name='Carma Vanheusen', phone='510-503-7169', address=Address{street='68556 Central Hwy', city='San Leandro', state='CA', zipcode='94577'}}
 Contact{name='Carmelina Lindall', phone='303-724-7371', address=Address{street='2664 Lewis Rd', city='Littleton', state='CO', zipcode='80126'}}
-Contact{name='Cecily Hollack', phone='512-486-3817', address=Address{street='59 N Groesbeck Hwy', city='Austin', state='TX', zipcode='78731'}}
 Contact{name='Chanel Caudy', phone='913-388-2079', address=Address{street='86 Nw 66th St #8673', city='Shawnee', state='KS', zipcode='66218'}}
+Contact{name='Delmy Ahle', phone='401-458-2547', address=Address{street='65895 S 16th St', city='Providence', state='RI', zipcode='2909'}}
 Contact{name='Cory Gibes', phone='626-572-1096', address=Address{street='83649 W Belmont Ave', city='San Gabriel', state='CA', zipcode='91776'}}
 Contact{name='Danica Bruschke', phone='254-782-8569', address=Address{street='840 15th Ave', city='Waco', state='TX', zipcode='76708'}}
 Contact{name='Deeanna Juhas', phone='215-211-9589', address=Address{street='14302 Pennsylvania Ave', city='Huntingdon Valley', state='PA', zipcode='19006'}}
 Contact{name='Delisa Crupi', phone='973-354-2040', address=Address{street='47565 W Grand Ave', city='Newark', state='NJ', zipcode='7105'}}
-Contact{name='Delmy Ahle', phone='401-458-2547', address=Address{street='65895 S 16th St', city='Providence', state='RI', zipcode='2909'}}
 Contact{name='Devorah Chickering', phone='505-975-8559', address=Address{street='31 Douglas Blvd #950', city='Clovis', state='NM', zipcode='88101'}}
 Contact{name='Dominque Dickerson', phone='510-993-3758', address=Address{street='69 Marquette Ave', city='Hayward', state='CA', zipcode='94545'}}
 Contact{name='Donette Foller', phone='513-570-1893', address=Address{street='34 Center St', city='Hamilton', state='OH', zipcode='45011'}}
+Contact{name='Graciela Ruta', phone='440-780-8425', address=Address{street='98 Connecticut Ave Nw', city='Chagrin Falls', state='OH', zipcode='44023'}}
+Contact{name='Fletcher Flosi', phone='815-828-2147', address=Address{street='394 Manchester Blvd', city='Rockford', state='IL', zipcode='61109'}}
+Contact{name='Ernie Stenseth', phone='201-709-6245', address=Address{street='45 E Liberty St', city='Ridgefield Park', state='NJ', zipcode='7660'}}
 Contact{name='Dyan Oldroyd', phone='913-413-4604', address=Address{street='7219 Woodfield Rd', city='Overland Park', state='KS', zipcode='66204'}}
+Contact{name='Erick Ferencz', phone='907-741-1044', address=Address{street='20 S Babcock St', city='Fairbanks', state='AK', zipcode='99712'}}
 Contact{name='Elly Morocco', phone='814-393-5571', address=Address{street='7 W 32nd St', city='Erie', state='PA', zipcode='16502'}}
 Contact{name='Elvera Benimadh', phone='408-703-8505', address=Address{street='99385 Charity St #840', city='San Jose', state='CA', zipcode='95110'}}
 Contact{name='Elza Lipke', phone='973-927-3447', address=Address{street='6794 Lake Dr E', city='Newark', state='NJ', zipcode='7104'}}
 Contact{name='Emerson Bowley', phone='608-336-7444', address=Address{street='762 S Main St', city='Madison', state='WI', zipcode='53711'}}
-Contact{name='Erick Ferencz', phone='907-741-1044', address=Address{street='20 S Babcock St', city='Fairbanks', state='AK', zipcode='99712'}}
-Contact{name='Ernie Stenseth', phone='201-709-6245', address=Address{street='45 E Liberty St', city='Ridgefield Park', state='NJ', zipcode='7660'}}
 Contact{name='Ezekiel Chui', phone='410-669-1642', address=Address{street='2 Cedar Ave #84', city='Easton', state='MD', zipcode='21601'}}
 Contact{name='Fatima Saylors', phone='952-768-2416', address=Address{street='2 Lighthouse Ave', city='Hopkins', state='MN', zipcode='55343'}}
-Contact{name='Fletcher Flosi', phone='815-828-2147', address=Address{street='394 Manchester Blvd', city='Rockford', state='IL', zipcode='61109'}}
 Contact{name='Francine Vocelka', phone='505-977-3911', address=Address{street='366 South Dr', city='Las Cruces', state='NM', zipcode='88011'}}
 Contact{name='Gladys Rim', phone='414-661-9598', address=Address{street='322 New Horizon Blvd', city='Milwaukee', state='WI', zipcode='53207'}}
-Contact{name='Graciela Ruta', phone='440-780-8425', address=Address{street='98 Connecticut Ave Nw', city='Chagrin Falls', state='OH', zipcode='44023'}}
 Contact{name='Ilene Eroman', phone='410-914-9018', address=Address{street='2853 S Central Expy', city='Glen Burnie', state='MD', zipcode='21061'}}
 Contact{name='Jamal Vanausdal', phone='732-234-1546', address=Address{street='53075 Sw 152nd Ter #615', city='Monroe Township', state='NJ', zipcode='8831'}}
-Contact{name='James Butt', phone='504-621-8927', address=Address{street='6649 N Blue Gum St', city='New Orleans', state='LA', zipcode='70116'}}
 Contact{name='Jina Briddick', phone='617-399-5124', address=Address{street='38938 Park Blvd', city='Boston', state='MA', zipcode='2128'}}
+Contact{name='Josephine Darakjy', phone='810-292-9388', address=Address{street='4 B Blue Ridge Blvd', city='Brighton', state='MI', zipcode='48116'}}
 Contact{name='Johnetta Abdallah', phone='919-225-9345', address=Address{street='1088 Pinehurst St', city='Chapel Hill', state='NC', zipcode='27514'}}
 Contact{name='Jose Stockham', phone='212-675-8570', address=Address{street='128 Bransten Rd', city='New York', state='NY', zipcode='10011'}}
-Contact{name='Josephine Darakjy', phone='810-292-9388', address=Address{street='4 B Blue Ridge Blvd', city='Brighton', state='MI', zipcode='48116'}}
+Contact{name='Kris Marrier', phone='410-655-8723', address=Address{street='228 Runamuck Pl #2808', city='Baltimore', state='MD', zipcode='21224'}}
+Contact{name='Kati Rulapaugh', phone='785-463-7829', address=Address{street='6980 Dorsett Rd', city='Abilene', state='KS', zipcode='67410'}}
 Contact{name='Kallie Blackwood', phone='415-315-2761', address=Address{street='701 S Harrison Rd', city='San Francisco', state='CA', zipcode='94104'}}
 Contact{name='Kanisha Waycott', phone='323-453-2780', address=Address{street='5 Tomahawk Dr', city='Los Angeles', state='CA', zipcode='90006'}}
 Contact{name='Karl Klonowski', phone='908-877-6135', address=Address{street='76 Brooks St #9', city='Flemington', state='NJ', zipcode='8822'}}
-Contact{name='Kati Rulapaugh', phone='785-463-7829', address=Address{street='6980 Dorsett Rd', city='Abilene', state='KS', zipcode='67410'}}
 Contact{name='Kiley Caldarera', phone='310-498-5651', address=Address{street='25 E 75th St #69', city='Los Angeles', state='CA', zipcode='90034'}}
-Contact{name='Kris Marrier', phone='410-655-8723', address=Address{street='228 Runamuck Pl #2808', city='Baltimore', state='MD', zipcode='21224'}}
-Contact{name='Lai Gato', phone='847-728-7286', address=Address{street='37 Alabama Ave', city='Evanston', state='IL', zipcode='60201'}}
 Contact{name='Laurel Reitler', phone='410-520-4832', address=Address{street='6 Kains Ave', city='Baltimore', state='MD', zipcode='21215'}}
+Contact{name='Lai Gato', phone='847-728-7286', address=Address{street='37 Alabama Ave', city='Evanston', state='IL', zipcode='60201'}}
 Contact{name='Lavera Perin', phone='305-606-7291', address=Address{street='678 3rd Ave', city='Miami', state='FL', zipcode='33196'}}
 Contact{name='Lenna Paprocki', phone='907-385-4412', address=Address{street='639 Main St', city='Anchorage', state='AK', zipcode='99501'}}
+Contact{name='Simona Morasca', phone='419-503-2484', address=Address{street='3 Mcauley Dr', city='Ashland', state='OH', zipcode='44805'}}
 Contact{name='Leota Dilliard', phone='408-752-3500', address=Address{street='7 W Jackson Blvd', city='San Jose', state='CA', zipcode='95111'}}
+Contact{name='Mattie Poquette', phone='602-277-4385', address=Address{street='73 State Road 434 E', city='Phoenix', state='AZ', zipcode='85013'}}
+Contact{name='Lorrie Nestle', phone='931-875-6644', address=Address{street='39 S 7th St', city='Tullahoma', state='TN', zipcode='37388'}}
 Contact{name='Lettie Isenhower', phone='216-657-7668', address=Address{street='70 W Main St', city='Beachwood', state='OH', zipcode='44122'}}
 Contact{name='Lisha Centini', phone='703-235-3937', address=Address{street='64 5th Ave #1153', city='Mc Lean', state='VA', zipcode='22102'}}
-Contact{name='Lorrie Nestle', phone='931-875-6644', address=Address{street='39 S 7th St', city='Tullahoma', state='TN', zipcode='37388'}}
 Contact{name='Malinda Hochard', phone='317-722-5066', address=Address{street='55 Riverside Ave', city='Indianapolis', state='IN', zipcode='46202'}}
 Contact{name='Marjory Mastella', phone='610-814-5533', address=Address{street='71 San Mateo Ave', city='Wayne', state='PA', zipcode='19087'}}
 Contact{name='Maryann Royster', phone='518-966-7987', address=Address{street='74 S Westgate St', city='Albany', state='NY', zipcode='12204'}}
-Contact{name='Mattie Poquette', phone='602-277-4385', address=Address{street='73 State Road 434 E', city='Phoenix', state='AZ', zipcode='85013'}}
 Contact{name='Maurine Yglesias', phone='414-748-1374', address=Address{street='59 Shady Ln #53', city='Milwaukee', state='WI', zipcode='53214'}}
 Contact{name='Meaghan Garufi', phone='931-313-9635', address=Address{street='69734 E Carrillo St', city='Mc Minnville', state='TN', zipcode='37110'}}
 Contact{name='Micaela Rhymes', phone='925-647-3298', address=Address{street='20932 Hedley St', city='Concord', state='CA', zipcode='94520'}}
 Contact{name='Minna Amigon', phone='215-874-1229', address=Address{street='2371 Jerrold Ave', city='Kulpsville', state='PA', zipcode='19443'}}
 Contact{name='Mitsue Tollner', phone='773-573-6914', address=Address{street='7 Eads St', city='Chicago', state='IL', zipcode='60632'}}
+Contact{name='Sage Wieser', phone='605-414-2147', address=Address{street='5 Boston Ave #88', city='Sioux Falls', state='SD', zipcode='57105'}}
+Contact{name='Roxane Campain', phone='907-231-4722', address=Address{street='1048 Main St', city='Fairbanks', state='AK', zipcode='99708'}}
 Contact{name='Moon Parlato', phone='585-866-8313', address=Address{street='74989 Brandon St', city='Wellsville', state='NY', zipcode='14895'}}
 Contact{name='Myra Munns', phone='817-914-7518', address=Address{street='461 Prospect Pl #316', city='Euless', state='TX', zipcode='76040'}}
 Contact{name='Natalie Fern', phone='307-704-8713', address=Address{street='7140 University Ave', city='Rock Springs', state='WY', zipcode='82901'}}
 Contact{name='Penney Weight', phone='907-797-9628', address=Address{street='18 Fountain St', city='Anchorage', state='AK', zipcode='99515'}}
-Contact{name='Roxane Campain', phone='907-231-4722', address=Address{street='1048 Main St', city='Fairbanks', state='AK', zipcode='99708'}}
 Contact{name='Rozella Ostrosky', phone='805-832-6163', address=Address{street='17 Morena Blvd', city='Camarillo', state='CA', zipcode='93012'}}
 Contact{name='Sabra Uyetake', phone='803-925-5213', address=Address{street='98839 Hawthorne Blvd #6101', city='Columbia', state='SC', zipcode='29201'}}
-Contact{name='Sage Wieser', phone='605-414-2147', address=Address{street='5 Boston Ave #88', city='Sioux Falls', state='SD', zipcode='57105'}}
 Contact{name='Shenika Seewald', phone='818-423-4007', address=Address{street='4 Otis St', city='Van Nuys', state='CA', zipcode='91405'}}
-Contact{name='Simona Morasca', phone='419-503-2484', address=Address{street='3 Mcauley Dr', city='Ashland', state='OH', zipcode='44805'}}
+Contact{name='Veronika Inouye', phone='408-540-1785', address=Address{street='6 Greenleaf Ave', city='San Jose', state='CA', zipcode='95111'}}
 Contact{name='Solange Shinko', phone='504-979-9175', address=Address{street='426 Wolf St', city='Metairie', state='LA', zipcode='70002'}}
+Contact{name='Valentine Gillian', phone='210-812-9597', address=Address{street='775 W 17th St', city='San Antonio', state='TX', zipcode='78204'}}
+Contact{name='Tawna Buvens', phone='212-674-9610', address=Address{street='3305 Nabell Ave #679', city='New York', state='NY', zipcode='10009'}}
 Contact{name='Stephaine Barfield', phone='310-774-7643', address=Address{street='47154 Whipple Ave Nw', city='Gardena', state='CA', zipcode='90247'}}
 Contact{name='Stephen Emigh', phone='330-537-5358', address=Address{street='3777 E Richmond St #900', city='Akron', state='OH', zipcode='44302'}}
 Contact{name='Tamar Hoogland', phone='740-343-8575', address=Address{street='2737 Pistorio Rd #9230', city='London', state='OH', zipcode='43140'}}
 Contact{name='Tammara Wardrip', phone='650-803-1936', address=Address{street='4800 Black Horse Pike', city='Burlingame', state='CA', zipcode='94010'}}
-Contact{name='Tawna Buvens', phone='212-674-9610', address=Address{street='3305 Nabell Ave #679', city='New York', state='NY', zipcode='10009'}}
 Contact{name='Timothy Mulqueen', phone='718-332-6527', address=Address{street='44 W 4th St', city='Staten Island', state='NY', zipcode='10309'}}
 Contact{name='Tonette Wenner', phone='516-968-6051', address=Address{street='4545 Courthouse Rd', city='Westbury', state='NY', zipcode='11590'}}
 Contact{name='Tyra Shields', phone='215-255-1641', address=Address{street='3 Fort Worth Ave', city='Philadelphia', state='PA', zipcode='19106'}}
-Contact{name='Valentine Gillian', phone='210-812-9597', address=Address{street='775 W 17th St', city='San Antonio', state='TX', zipcode='78204'}}
 Contact{name='Vallie Mondella', phone='208-862-5339', address=Address{street='74 W College St', city='Boise', state='ID', zipcode='83707'}}
-Contact{name='Veronika Inouye', phone='408-540-1785', address=Address{street='6 Greenleaf Ave', city='San Jose', state='CA', zipcode='95111'}}
 Contact{name='Viva Toelkes', phone='773-446-5569', address=Address{street='4284 Dorigo Ln', city='Chicago', state='IL', zipcode='60647'}}
 Contact{name='Wilda Giguere', phone='907-870-5536', address=Address{street='1747 Calle Amanecer #2', city='Anchorage', state='AK', zipcode='99501'}}
 Contact{name='Willard Kolmetz', phone='972-303-9197', address=Address{street='618 W Yakima Ave', city='Irving', state='TX', zipcode='75062'}}
@@ -437,44 +437,42 @@ Notice, The order did not change, however James is no longer here!
 
 
 
-
 Say you dont like the Addressbook? No Worries! Let's Clear all contacts: 
 	<- theres nothing there! **because its cleared**
 
 		**ehem**
 
 
+
+
 Have a new Friend Group? No Worries! 
 Look, I just created an entirely new AddressBook to hold all my new, cool friends:
- Contact{name='Billy Joel', phone='(516)707-1871', address=Address{street='10 Oyster Bay Blvd', city='Oyster Bay', state='NY,', zipcode='11708'}}
+ Contact{name='Rachel Green', phone='(518)001-1000', address=Address{street='12 Middle Country Rd', city='NYC', state='NY,', zipcode='10001'}}
+Contact{name='Billy Joel', phone='(516)707-1871', address=Address{street='10 Oyster Bay Blvd', city='Oyster Bay', state='NY,', zipcode='11708'}}
+Contact{name='JAY-Z', phone='(381)202-1092', address=Address{street='26 W Broadway St', city='NYC', state='NY,', zipcode='11011'}}
 Contact{name='David Chappelle', phone='(231)884-2836', address=Address{street='7 Water St.', city='Sidney', state='OH', zipcode='45365'}}
 Contact{name='Dwayne Johnson', phone='(231)884-2836', address=Address{street='905 Indian Spring Street', city='Altamonte Springs', state='FL,', zipcode='32714'}}
-Contact{name='JAY-Z', phone='(381)202-1092', address=Address{street='26 W Broadway St', city='NYC', state='NY,', zipcode='11011'}}
 Contact{name='Jim Carrey', phone='(000)662-0912', address=Address{street='101 HollyWood Blvd', city='Hollywood', state='CA,', zipcode='95712'}}
 Contact{name='Peter Griffin', phone='(613)501-9087', address=Address{street='10 N Quohog Rd', city='Quohog', state='RI,', zipcode='67802'}}
-Contact{name='Rachel Green', phone='(518)001-1000', address=Address{street='12 Middle Country Rd', city='NYC', state='NY,', zipcode='10001'}}
 Contact{name='Ross Geller', phone='(518)662-1096', address=Address{street='12 Middle Country Rd', city='NYC', state='NY,', zipcode='10001'}}
 Contact{name='Tom Hanks', phone='(518)001-1000', address=Address{street='12 Middle Country Rd', city='NYC', state='NY,', zipcode='10001'}}
 
 Lit, except I REALLLLLYY don't like Peter Griffin...
 
 		**poof**
-Contact{name='Billy Joel', phone='(516)707-1871', address=Address{street='10 Oyster Bay Blvd', city='Oyster Bay', state='NY,', zipcode='11708'}}
-Contact{name='David Chappelle', phone='(231)884-2836', address=Address{street='7 Water St.', city='Sidney', state='OH', zipcode='45365'}}
-Contact{name='Dwayne Johnson', phone='(231)884-2836', address=Address{street='905 Indian Spring Street', city='Altamonte Springs', state='FL,', zipcode='32714'}}
-Contact{name='JAY-Z', phone='(381)202-1092', address=Address{street='26 W Broadway St', city='NYC', state='NY,', zipcode='11011'}}
-Contact{name='Jim Carrey', phone='(000)662-0912', address=Address{street='101 HollyWood Blvd', city='Hollywood', state='CA,', zipcode='95712'}}
-Contact{name='Peter Griffin', phone='(613)501-9087', address=Address{street='10 N Quohog Rd', city='Quohog', state='RI,', zipcode='67802'}}
 Contact{name='Rachel Green', phone='(518)001-1000', address=Address{street='12 Middle Country Rd', city='NYC', state='NY,', zipcode='10001'}}
+Contact{name='Billy Joel', phone='(516)707-1871', address=Address{street='10 Oyster Bay Blvd', city='Oyster Bay', state='NY,', zipcode='11708'}}
+Contact{name='Jim Carrey', phone='(000)662-0912', address=Address{street='101 HollyWood Blvd', city='Hollywood', state='CA,', zipcode='95712'}}
+Contact{name='Dwayne Johnson', phone='(231)884-2836', address=Address{street='905 Indian Spring Street', city='Altamonte Springs', state='FL,', zipcode='32714'}}
+Contact{name='David Chappelle', phone='(231)884-2836', address=Address{street='7 Water St.', city='Sidney', state='OH', zipcode='45365'}}
+Contact{name='JAY-Z', phone='(381)202-1092', address=Address{street='26 W Broadway St', city='NYC', state='NY,', zipcode='11011'}}
 Contact{name='Ross Geller', phone='(518)662-1096', address=Address{street='12 Middle Country Rd', city='NYC', state='NY,', zipcode='10001'}}
 Contact{name='Tom Hanks', phone='(518)001-1000', address=Address{street='12 Middle Country Rd', city='NYC', state='NY,', zipcode='10001'}}
 
 Ehhemm.... Please Go on....
 
-
 Now, even though I have all these new friends.. I still dont like them... SOO...
 ...ehem.... IS.. my addressbook finally empty like it should be? :: true
-
 
 
 
@@ -485,3 +483,7 @@ SERIOUS INQUIRES ONLY... I manage Lebron's Address Book so you can count on the 
 BUY NOW FOR ONLY 99.99$! THATS A BARGIAN!
 ** We are not responsible for you not having any friends to put into your address book **
 ** Also a no-money-back warranty policy, if your AddressBook randomly loses your contacts because your computer shuts off, you should have written it down on paper **
+
+
+
+
